@@ -1,7 +1,7 @@
 import React from 'react';
 import AddTodo from './components/AddTodo';
 import Todos from './components/Todos';
-import Navbar from './components/navbar';
+import Navbar from './components/Navbar';
 
 const App: React.FC = () => {
   return (
