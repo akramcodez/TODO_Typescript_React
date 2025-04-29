@@ -83,11 +83,7 @@ yarn dev
 
 ## 📸 Screenshots
 
-| Add Todos | Filter Todos |
-|:---------:|:------------:|
-| ![Add Todos](https://via.placeholder.com/300x200?text=Add+Todos) | ![Filter Todos](https://via.placeholder.com/300x200?text=Filter+Todos) |
-
-*(You can replace the above placeholder links with real screenshots later)*
+![Screenshot 2025-04-29 101346](https://github.com/user-attachments/assets/09af750c-358d-40a7-8fb9-deba19d1503a)
 
 ---
 
@@ -105,13 +101,6 @@ yarn dev
 ## 🙋 Author
 
 Made with ❤️ by [**@akramcodez**](https://github.com/akramcodez)
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.  
-Feel free to use, modify, and share!
 
 ---
 
